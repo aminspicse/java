@@ -1,3 +1,4 @@
-# java
+# Java
 Learn java
-First Learn
+
+#You don't try to learn java quickly#
